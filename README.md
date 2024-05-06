@@ -21,3 +21,6 @@ To run this application, follow these steps:
 
 ## System Requirements
 - Python 3.6 or higher
+
+## Github link
+- https://github.com/lobsterhandz/mini_project_to_do_list_application
