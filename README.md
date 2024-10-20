@@ -19,7 +19,7 @@ To run this application, follow these steps:
 4. Open your terminal or command prompt.
 5. Run the command `python main.py`.
 
-## System Requirements
+## System Requirementsd
 - Python 3.6 or higher
 
 ## Github link
